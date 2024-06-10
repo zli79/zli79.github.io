@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>Machine Learning Group Seminar</title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1265.21">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #0000ee}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #333333}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #323333}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #333333; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Times; color: #212121}
+    p.p9 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: center; font: 12.0px Times}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    span.s1 {text-decoration: underline}
+    span.s2 {color: #000000}
+    table.t1 {width: 1200.0px; background-color: #ffffff}
+    table.t2 {border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; border-collapse: collapse}
+    td.td1 {width: 1198.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td2 {width: 43.0px; background-color: #e6983b; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td3 {width: 120.0px; background-color: #e6983b; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td4 {width: 472.0px; background-color: #e6983b; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td5 {width: 68.0px; background-color: #e6983b; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td6 {width: 43.0px; background-color: #ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td7 {width: 120.0px; background-color: #ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td8 {width: 472.0px; background-color: #ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td9 {width: 68.0px; background-color: #ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #ebab3a #ebab3a #ebab3a #ebab3a; padding: 8.0px 8.0px 8.0px 8.0px}
+    ul.ul1 {list-style-type: none}
+  </style>
+</head>
+<body>
+<p class="p1"><br></p>
+<table width="1200.0" cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td1">
+        <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Helvetica"><b>Machine Learning Group Seminar</b></h2>
+        <p class="p3"><span class="s1"><a href="http://www.cs.uiowa.edu/">Computer Science</a></span><span class="s2">, <a href="http://www.uiowa.edu/"><span class="s1">University of Iowa</span></a></span></p>
+        <p class="p3"><span class="s2">Organizer: <a href="http://www.cs.uiowa.edu/~tyng"><span class="s1">Tianbao Yang</span></a></span></p>
+        <p class="p4">Maintained by: Zhe Li<span class="Apple-converted-space"> </span></p>
+        <p class="p4">Location: Iowa Memorial Union<span class="Apple-converted-space"> </span></p>
+        <p class="p4">Hours: 1:25pm - 3:25pm Friday</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<ul class="ul1">
+  <li class="li1"></li>
+</ul>
+<p class="p4">Tentative</p>
+<table cellspacing="0" cellpadding="0" class="t2">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td2">
+        <p class="p5"><b>Week</b></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5"><b>Date/Location</b></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5"><b>Topic</b></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5"><b>Presenter</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 1</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Aug.26/Purdue (341)</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p6">None</p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 2</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Sep. 2/Purdue (341)</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p8"><a href="http://epubs.siam.org.proxy.lib.uiowa.edu/doi/abs/10.1137/050626090" > Signal Recovery by Proximal Forward-backward Splitting </a><span class="Apple-converted-space"> </span></p>
+        <p class="p7"><br></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Yang Yang</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 3</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Sep. 9/N512 CPHB</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="https://arxiv.org/abs/1602.02442"> A simple Practical Accelerated Method for Finite Sums</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p7">Qihang Lin<br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 4</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Sep.16/Purdue (341)</p>
+      </td>
+      <td valign="middle" class="td8">
+      <p class="p5"><a href="https://papers.nips.cc/paper/6034-fast-rates-for-exp-concave-empirical-risk-minimization.pdf"> Fast Rates for Exp-concave Empirical Risk Minimization</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p6">Zhe Li</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 5</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Sep.23/Miller (259)</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="https://arxiv.org/abs/1603.05642">Optimal Black-Box Reduction Between Optimization Objectives</a></p>
+        <p class="p7"><br></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Yi Xu</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 6</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Sep.30/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p6"><a href="https://mipt.ru/dcam/students/elective/a_5gc1te/RandomGradFree.PDF">Random Gradient-Free Minimization of Convex Function</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Runchao Ma</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 7</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Oct 7/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">None</p>
+      </td>
+    </tr>
+   <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+   
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 8</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Oct. 14/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="http://www.jmlr.org/proceedings/papers/v28/ouyang13.pdf">Stochastic Alternating Direction Method of Multipliers</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Mingrui Liu</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 9</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Oct.21/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="http://jmlr.csail.mit.edu/proceedings/papers/v28/bi13.pdf">Efficient Multi-label Classification with Many Labels </a> </p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Xin Man</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 10</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Oct.28/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="http://arxiv.org/pdf/1211.3966v3.pdf">Lasso screening rules via dual polytope projection<br><a href="https://arxiv.org/pdf/1307.4145v2.pdf">A safe screening rule for sparse logistic regression</p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Yaohui Zeng</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 11</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Nov.4/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="https://arxiv.org/pdf/1607.06513v2.pdf">Online First-Order Framework for Robust Convex Optimization</a> <br><a href="https://arxiv.org/pdf/1402.6361v1.pdf">Oracle-Based Robust Optimization via Online Learning</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Guanglin Xu </p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 12</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Nov.11/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="http://140.123.102.14:8080/reportSys/file/paper/joji/joji_4_paper.pdf"">Incorporating Diversity in Active learning with Support Vector Machine</a> <br> <a href="http://www.cse.cuhk.edu.hk/~lyu/paper_pdf/fp598-hoi.pdf">Large-scale Text Categorization by Batch Mode Active Learning</a><br><a href = "http://chbrown.github.io/kdd-2013-usb/kdd/p158.pdf"> Querying Discriminative and Representative Samples for Batch Model Active Learning </a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Dixian Zhu</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+        
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 13</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Nov.18/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href ="http://www.optimization-online.org/DB_FILE/2015/10/5182.pdf">The rate of convergence of Nestrov's Accelerated Forward and Backward Method is Acutually O(k^{-2})</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Qihang Lin</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week</p>
+        <p class="p5">14</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Nov.25</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5">None</p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5"></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 15</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Dec.2/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="https://arxiv.org/pdf/1605.08695v2.pdf">TensorFlow: A system for large-scale machine learning</a><br><a href="http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf">Large Scale Distributed Deep Networks</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Jeffrey Hajewski</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 16</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Dec.9/PC C29</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><a href="https://arxiv.org/abs/1312.0925">Understanding Alternating Minimization for Matrix Completion</a></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Zaiyi Chen</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p7"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p5">Week 17</p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p5">Dec.16</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5">None</p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5">Exam Week</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p9"> </p>
+<a href="2016springMachineLearningGroupSeminar.html"> 2016 spring semester machine learning seminar schedule </a>
+</body>
+</html>

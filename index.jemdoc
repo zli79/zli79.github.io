@@ -1,0 +1,108 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Zhe Li 
+
+~~~
+{}{img_left}{photos/bio.png}{alt text}{131}{160}{http://homepage.cs.uiowa.edu/~zli79/}
+PhD Candidate,\n [http://cs.uiowa.edu Department of Compute science], \n[http://uiowa.edu The University of Iowa]\n
+317 MacLean Hall \n
+Iowa city, IA  52246 \n 
+Phone: \319-335-0713 \n
+Fax: \319-335-0627\n
+E-post: /zhe-li-1/ \[@\] uiowa \[DOT\] edu
+~~~
+
+== About me
+I am currently a fifth year PhD student in [http://cs.uiowa.edu Department of Computer science] in [http://uiowa.edu The University of Iowa (Hawkeye)], working with [https://homepage.cs.uiowa.edu/~tyng/ Prof. Tianbao Yang]. I received my bachelor's degree and master's degree both in computer science from [http://xjtu.edu.cn Xian Jiaotong University] and [http://sdstate.edu South Dakota State University(Jackrabbits)] in 2010 and 2013, respectively.    
+== News
+- I will give a [talks/searchOptimalStructure.pdf guest lecture] on automatically searching the optimal neural network structures in deep learning course at The University of Iowa.
+- We gave a [talks/aistats2018-exp-concave-ppt.pdf presentation] on our oral AISTATS 2018 [pubs/aistats2018-exp-concave.pdf paper]. 
+- I gave a [talks/Compress.pdf guest lecture] on comressing deep neural networks in deep learning course at The University of Iowa.
+== Research Interest
+~~~
+{}{img_left}{figs/research_area.png}{alt text}{501}{250}{http://homepage.cs.uiowa.edu/~zli79/}
+My research interests fall into three levels (as shown in the left figure): 
+- understanding why machine can learn from learning theory perspective (statistical machine learning);
+- designing and analyzing optimization algorithms to facilate machine learning effeciently;
+- utilizing machine learning models(Specifically, deep neural network) to solve image classification, object detection or other computer vision task.
+~~~
+
+== Research Experience
+- May 2017 - Nov 2017, Research Intern at [http://snapchat.com Snap Research] at Venice, CA
+- May 2016 - Aug 2016, Research Intern at [http://yahoo.com Yahoo Research] at Sunnyvale, CA
+- May 2015 - Aug 2015, Research Intern at [http://gm.com General Motor Research] at Warren, MI
+- Aug 2014 - Present, Research Assistant at [http://cs.uiowa.edu The University of Iowa] at Iowa City, IA 
+- Aug 2011 - Jul 2013, Research Assistant at [http://sdstate.edu/eecs South Dakota State University] at Brookings, SD
+- Aug 2010 - Jun 2011, Research Assistant at [http://xjtu.edu.cn Xi'an Jiaotong University] at Xi'an, Shaanxi
+
+# [research.html Find out more].
+=== Recent Publications 
+- Zhe Li, Xiaoyu Wang, Xutao Lv, Tianbao Yang,[https://arxiv.org/pdf/1706.03912.pdf \"SEP-Nets:Small and Effective Pattern Networks\"], \[[https://github.com/zli79/SEP-Nets github]\]\[[posters/sep-net.pdf poster]\]\[[talks/sep-net-xjtu.pdf slides]\]\[[https://qz.com/1005879/snapchat-quietly-revealed-how-it-can-put-ai-on-your-phone/ Media Coverage]\].
+
+- Tianbao Yang, Qihang Lin, Zhe Li, [https://arxiv.org/pdf/1604.03257.pdf  \"Unified Convergence Analysis of Stochastic Momentum Methods for Convex and Non-convex Optimization\"], arxiv Preprint, arXiv: 1604.03257
+
+- Tianbao Yang, Zhe Li, Lijun Zhang, [https://arxiv.org/pdf/1709.02909.pdf "\A simple Analysis for Exp-concave Empirical Minimization with Arbitrary Convex Regularizer\"],AISTATS 2018. \n
+\[[pubs/aistats2018-exp-concave.pdf pdf]\]\[[posters/aistats2018-exp-concave-poster.pdf poster]\]\[[talks/aistats2018-exp-concave-ppt.pdf  slides]\]
+
+- Yichi Xiao, Zhe Li, Tianbao Yang, and Lijun Zhang,[https://homepage.cs.uiowa.edu/~tyng/papers/nuclear-ijcai17.pdf \"SVD-free Convex-Concave Approaches for Nuclear Norm Regularization\"], International Joint Conference on Artifical Intelligence (IJCAI), 2017. \[[https://cs.nju.edu.cn/zlj/pdf/IJCAI-2017-Xiao-S.pdf supp]\]\[[http://arxiv.org/abs/1306.2454 slides]\]
+
+- Zhe Li, Tianbao Yang, Lijun Zhang, and Rong Jin, \"A Two-stage Approach for Learning a Sparse Model with Sharp Excess Risk Analysis\",AAAI 2017 \n
+\[[pubs/2017-AAAI-Sparse-Learning.pdf pdf]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:sgEOJvy7_4kJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWd_a1q_jyIFgeJlgi0-JuJxTxUpnDYtL&scisf=4&ct=citation&cd=-1&hl=en Bibtex]\]\[[posters/two_stage_approach_learning_sparse_model.pdf poster]\]\[[talks/EasyData-5-minutes.pdf  5-munutes-slides]\]\[[talks/EasyData-15-minutes.pdf  15-minutes-slides]\]
+
+- Zhe Li, Boqing Gong, Tianbao Yang, \"Improved Dropout for Shallow and Deep Learning\", NIPS 2016.\n
+ \[[https://papers.nips.cc/paper/6561-improved-dropout-for-shallow-and-deep-learning.pdf pdf]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:QqsENnxoRqkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWd_Z3nuPPdngrkQDek3vrwpIt69X1EqO&scisf=4&ct=citation&cd=-1&hl=en Bibtex]\]\[[posters/dropout-nips.pdf poster]\]\[[talks/Improved-dropout-for-shallow-deep-learning.pdf slides]\]\[[https://youtube.com/watch?v=oZOOfaT94iU  5-minutes-vedio]\]
+
+- Zhe Li, Tianbao Yang, Lijun Zhang, Rong Jin, \"Fast and Accurate Refined Nystrom based Kervel SVM\", AAAI 2016.\n
+ \[[https://cs.nju.edu.cn/zlj/pdf/AAAI-2016-Li.pdf pdf]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:HnY9f6UPW3kJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWd_aO7yXm3_lpfKsU0_Yiwie22N7rRAg&scisf=4&ct=citation&cd=-1&hl=en Bibtex]\]\[[posters/2016-AAAI-Nystrom-Poster-ZheLi.pdf poster]\]\[[talks/dual_perspective_nystrom_method.pdf slides]\]
+
+- Zhe Li, Wei Wang, Sung Shin, Hyung D. Choi,[https://dl.acm.org/citation.cfm?id=2513228.2513322 \"Enhanced Roughness Index for Breast Cancer Benign/Malignent Measurement Using Gaussian Mixture Model\"],In Proc. ACM Research in Applied Computation Symposium(RACS), Oct 2013
+
+- Byung K.Jung, Wei Wang, Zhe Li, Seong H. Son, Jung Yeop Kim, [https://dl.acm.org/citation.cfm?doid=2401603.2401642 \"A Sectorized Object Matching Approach for Breast Magnetic Resonance Image Similarity Study\"], In Proc. ACM Research in Applied Computation Symposium(RACS), Oct 2012
+
+- Zhe Li, Shin Sung, Soon I.Jeon, Seong H.Son, Jeong K. Pack, [https://dl.acm.org/citation.cfm?id=2401636 \"A New Histogram-based Breast Cancer Image Classifier Using Gaussian Mixture Model\"], In Proc. ACM Research in Applied Computation Symposium(RACS), Oct 2012
+
+== Workshop
+- Zhe Li, Xiaoyu Wang, Xutao Lv, Tianbao Yang, \"SEP-Nets: Small and Effective Pattern Networks\".\n [http://image-net.org/challenges/beyond_ilsvrc Beyond ISLVRC workshops 2017] Honululu, HI
+- Zhe Li, Tianbao Yang, Lijun Zhang, Rong Jin, \"A Two-stage Approach for Learning a Sparse Model with Sharp Excess Risk Analysis\"\n[https://event.cwi.nl/easydata2015/ Learning Fast From Easy Data Workshop] NIPS 2015, Montreal, Canada
+== Talks
+- "SEP-Nets: small and effective pattern networks" \[[talks/sep-net-xjtu.pdf pdf]\]
+
+- "Deep Learning With Caffe"\[[talks/DeepLearningWithCaffeTutorial.pdf pdf]\], The University of Iowa, Apr 2017
+\n This lecture tried to teach students widely from The university of Iowa how to install caffe in the university cluster [https://wiki.uiowa.edu/display/hpcdocs/Argon+Cluster argon] and how to train the very first deep neural network model for image classification using caffe. The installation in Argon clusteris quite tricky since students don't have root access to cluster.  See [notes/Installation_Caffe_on_Argon_Cluster.pdf Notes] for detail information if you want to install caffe in your cluster environment. 
+
+- "Improved Dropout for Shallow and Deep Learning"\[[talks/Improved-dropout-for-shallow-deep-learning.pdf pdf]\]
+
+- "Open the Magic Box of Deep Learning for Image Classification"\[[talks/DeepLearning-17minutes-version.pdf pdf]\]
+\n This 15-minutes talks trys to give prospective students interested in graduate program a sense of how powerful/magic deep neural network is and open this magic deep neural network box for them in [https://cs.uiowa.edu/graduate-programs/graduate-research-symposium-2016 2016 Prospective Student Visit Day and Graduate Student Research Symposium]. 
+
+- "A Two-stage Approach for Learning a Sparse Model with sharp Excess Risk Analysis"\[[talks/EasyData-15-minutes.pdf pdf]\]
+
+- "Nystrom Based Kernel Classification for Big Data""\[[talks/dual_perspective_nystrom_method.pdf pdf]\]
+
+#[publications.html Full list of publications].
+#[cv.pdf A brief cv].
+== Demo
+- [https://drive.google.com/file/d/0B8r-ELrtSpcaZ2pYVFNfdXFDYlk/view?usp=sharing Object Detection]: This is C\+\+ implementation of [https://arxiv.org/pdf/1311.2524.pdf RCNN] based on [https://github.com/BVLC/caffe caffe] framework, in which sliding window, bounding box regression are utilized. 
+== Honors and Awards
+- [https://cs.uiowa.edu/resources/news/phd-candidate-award-recipients-2017-updated UIowa Graduate College Post-Comprehensive Research Award 2017]
+- Neural Information Processing System (NIPS) Travel Award 2016
+- Outstanding Students Awards of Xi'an Jiaotong University 2010
+- BaoGang Outstanding Students Scholarship, XJTU 2009
+- National scholorship, XJTU 2008	
+== Professional Activities
+- Program Committee of The Twelfth Asia Information Retrieval Societies(AIRS) Conference 2016
+- Reviewer of The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 2016 
+- Reviewer of The Thirtieth AAAI Conference on Artificial Intelligence (AAAI) 2016 
+- Reviewer of The 25th ACM International Conference on Information and Knowledge Management (CIKM) 2016
+- Reviewer of ACM Research in Applied Computation Symposium (RACS), 2012
+- Reviewer of The 13^th IEEE international Conference on Communication Systems 2012 
+- Reviewer of International Conference on Wireless Communications and Signal Processing (WCSP), 2012 
+- Reviewer of the 8^th IEEE International Conference on Wireless and Mobile Computing, Networking, and Communications(WiMob), 2012 
+== Notes
+The following are some casual notes:
+- [notes/The_evolution_from_MLE_to_MAP_to_Bayesian.pdf The evolution from MLE to MAP to Bayesian]
+- [notes/Reproducing_Kernel_Hilbert_Space.pdf Reproducing Kernel Hilbert Space]
+- [notes/Bias_and_Variance_Tradeoff.pdf Bias and Variance Tradeoff]
+- [notes/online_learning.pdf Online Learning]
+- [notes/Fast_Rates_for_ExpConcave_Empirical_Risk_Minimization.pdf Fast Rates for ExpConcave Empirical Risk Minimization]
+- [notes/Nesterov_Accelerate_and_SVRG_technique.pdf Stochastic Proximal Gradient Descent With Acceleration Techniques]
+- [notes/logarithmic_regret_algorithm_online_convex_optimization.pdf Logarithmic Regret Algorithms for online Convex Optimization]

@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Zhe Li 
+
+~~~
+{}{img_left}{photos/bio.png}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+PhD Candidate,\n [http://cs.uiowa.edu Department of Compute science], \n[http://uiowa.edu The University of Iowa]\n
+317 MacLean Hall \n
+Iowa city, IA  52246 \n 
+Phone: \319-335-0713 \n
+Fax: \319-335-0627\n
+E-post: /zhe-li-1/ \[@\] uiowa \[DOT\] edu
+~~~
+
+== About me
+I am currently a fifth year PhD student in [http://cs.uiowa.edu Department of Computer science] in [http://uiowa.edu The University of Iowa (Howkeye)], working with [https://homepage.cs.uiowa.edu/~tyng/ Prof. Tianbao Yang]. I received my bachelor's degree and master's degree both in computer science from [http://xjtu.edu.cn Xian Jiaotong University] and [http://sdstate.edu South Dakota State University] in 2010 and 2013, respectively.    
+
+== Research Interest
+My research interests include 
+- deep learning   
+- Distributed Algorithms
+- Real-time Sensor Networking
+- Machine Learning
+
+== Research Experience
+- May 2017 - Nov 2017, Research Intern at [http://snapchat.com Snap Research]
+- May 2016 - Aug 2016, Research Intern at [http://yahoo.com Yahoo Research]
+- May 2015 - Aug 2015, Research Intern at [http://gm.com General Motor Research]
+- Aug 2014 - Present, Research Assistant at The University of Iowa 
+- Aug 2011 - Jul 2013, Research Assistant at South Dakota State University 
+- Aug 2010 - Jun 2011, Research Assistant at Xi'an Jiaotong University
+
+# [research.html Find out more].
+=== Recent Publications 
+. Zhe Li, Xiaoyu Wang, Xutao Lv, Tianbao Yang,[https://arxiv.org/pdf/1706.03912.pdf \"SEP-Nets:Small and Effective Pattern Networks\"], [talks\sep-net-xjtu.pdf slides].
+. Yichi Xiao, Zhe Li, Tianbao Yang, and Lijun Zhang \"SVD-free Convex-Concave Approaches for Nuclear Norm Regularization \", International Joint Conference on Artifical Intelligence (IJCAI), 2017. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+. Zhe Li, Tianbao Yang, Lijun Zhang, and Rong Jin, \"A Two-stage Approach for Learning a Sparse Model with Sharp Excess Risk Analysis\",\[[ pdf] \]
+. Zhe Li, Boqing Gong, Tianbao Yang, \"Improved Dropout for Shallow and Deep Learning\", NIPS, 2016. \[[pub/oppTOSN.pdf pdf],[posters/dropout-nips.pdf poster],[talks/Improved-dropout-for-shallow-deep-learning.pdf slides],[https://youtube.com/watch?v=oZOOfaT94iU  5-minutes-vedio]\]
+
+== Workshop
+
+== Talks
+- "SEP-Nets: small and effective pattern networks" \[[talks/sep-net-xjtu.pdf pdf]\]
+- "Deep Learning With Caffe"\[[talks/DeepLearningWithCaffeTutorial.pdf pdf]\], The University of Iowa, Apr 2017
+- "Improved Dropout for Shallow and Deep Learning"\[[talks/Improved-dropout-for-shallow-deep-learning.pdf pdf]\]
+- "Open the Magic Box of Deep Learning for Image Classification"\[[talks/DeepLearning-17minutes-version.pdf pdf]\]
+- "A Two-stage Approach for Learning a Sparse Model with sharp Excess Risk Analysis"\[[talks/EasyData-15-minutes.pdf pdf]\]
+- "Nystrom Based Kernel Classification for Big Data""\[[talks/dual_perspective_nystrom_method.pdf pdf]\]
+
+#[publications.html Full list of publications].
+\n
+#[cv.pdf A brief cv].
+
