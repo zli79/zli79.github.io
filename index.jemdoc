@@ -82,6 +82,19 @@ My research interests fall into three levels (as shown in the left figure):
 #[cv.pdf A brief cv].
 == Demo
 - [https://drive.google.com/file/d/0B8r-ELrtSpcaZ2pYVFNfdXFDYlk/view?usp=sharing Object Detection]: This is C\+\+ implementation of [https://arxiv.org/pdf/1311.2524.pdf RCNN] based on [https://github.com/BVLC/caffe caffe] framework, in which sliding window, bounding box regression are utilized. 
+
+== Notes
+The following are some casual notes:
+- [notes/deep_learning_backpropagation.pdf The back propagation of deep learning]
+- [notes/The_evolution_from_MLE_to_MAP_to_Bayesian.pdf The evolution from MLE to MAP to Bayesian]
+- [notes/Reproducing_Kernel_Hilbert_Space.pdf Reproducing Kernel Hilbert Space]
+- [notes/Bias_and_Variance_Tradeoff.pdf Bias and Variance Tradeoff]
+- [notes/online_learning.pdf Online Learning]
+- [notes/Fast_Rates_for_ExpConcave_Empirical_Risk_Minimization.pdf Fast Rates for ExpConcave Empirical Risk Minimization]
+- [notes/Nesterov_Accelerate_and_SVRG_technique.pdf Stochastic Proximal Gradient Descent With Acceleration Techniques]
+- [notes/logarithmic_regret_algorithm_online_convex_optimization.pdf Logarithmic Regret Algorithms for online Convex Optimization]
+
+
 == Honors and Awards
 - [https://cs.uiowa.edu/resources/news/phd-candidate-award-recipients-2017-updated UIowa Graduate College Post-Comprehensive Research Award 2017]
 - Neural Information Processing System (NIPS) Travel Award 2016
@@ -97,12 +110,4 @@ My research interests fall into three levels (as shown in the left figure):
 - Reviewer of The 13^th IEEE international Conference on Communication Systems 2012 
 - Reviewer of International Conference on Wireless Communications and Signal Processing (WCSP), 2012 
 - Reviewer of the 8^th IEEE International Conference on Wireless and Mobile Computing, Networking, and Communications(WiMob), 2012 
-== Notes
-The following are some casual notes:
-- [notes/The_evolution_from_MLE_to_MAP_to_Bayesian.pdf The evolution from MLE to MAP to Bayesian]
-- [notes/Reproducing_Kernel_Hilbert_Space.pdf Reproducing Kernel Hilbert Space]
-- [notes/Bias_and_Variance_Tradeoff.pdf Bias and Variance Tradeoff]
-- [notes/online_learning.pdf Online Learning]
-- [notes/Fast_Rates_for_ExpConcave_Empirical_Risk_Minimization.pdf Fast Rates for ExpConcave Empirical Risk Minimization]
-- [notes/Nesterov_Accelerate_and_SVRG_technique.pdf Stochastic Proximal Gradient Descent With Acceleration Techniques]
-- [notes/logarithmic_regret_algorithm_online_convex_optimization.pdf Logarithmic Regret Algorithms for online Convex Optimization]
+
