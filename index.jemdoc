@@ -86,6 +86,7 @@ My research interests fall into three levels (as shown in the left figure):
 
 == Notes
 The following are some casual notes:
+- [notes/diffusion_transformer.pdf Diffusion Transformer (DiT)]
 - [notes/diffusion_model.pdf A Brief Overview of How Diffusion Model Works]
 - [notes/clip_image_text_feature.pdf Clip Paper: How Images and Texts are encoded and Trained Jointly]
 - [notes/how_llm_works.pdf How Large Language Model Works in the Prediction Stage]
