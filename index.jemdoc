@@ -25,6 +25,7 @@ My research interests fall into three levels (as shown in the left figure):
 ~~~
 
 == Research Experience
+- Sep 2024 - Present, Member of Technical Staff at [https://inflection.ai/ Inflection AI Inc.] at Palo Alto CA
 - Sep 2022 - Apr 2024, Staff Machine Learning Engineer at [https://www.apple.com Apple Inc.] at Cupertino CA
 - Sep 2020 - Sep 2022, Senior Machine Learning Engineer at [https://www.apple.com Apple Inc.] at Cupertino CA
 - Aug 2018 - Sep 2020, Machine Learning Engineer at [https://www.apple.com Apple Inc.] at Cupertino CA
@@ -86,6 +87,7 @@ My research interests fall into three levels (as shown in the left figure):
 
 == Notes
 The following are some casual notes:
+- [notes/Intro_reinforcement_learning.pdf Reinforcement Learning: from Policy Gradient to Proximal Policy Gradient(PPO)]
 - [notes/diffusion_transformer.pdf Diffusion Transformer (DiT)]
 - [notes/diffusion_model.pdf A Brief Overview of How Diffusion Model Works]
 - [notes/clip_image_text_feature.pdf Clip Paper: How Images and Texts are encoded and Trained Jointly]
