@@ -18,7 +18,7 @@ I am a Member of Technical Staff at [https://inflection.ai/ Inflection AI Inc.],
 == Research Interest
 ~~~
 #{}{img_left}{figs/research_area.png}{alt text}{501}{250}{http://homepage.cs.uiowa.edu/~zli79/}
-My research interests fall into three levels (as shown in the left figure): 
+My research interests fall into three levels:
 - understanding why machine can learn from learning theory perspective (statistical machine learning);
 - designing and analyzing optimization algorithms to facilitate machine learning efficiently;
 - utilizing machine learning models(Specifically, deep neural networks) to solve vision, language and other tasks.
