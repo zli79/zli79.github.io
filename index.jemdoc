@@ -85,7 +85,7 @@ My research interests fall into three levels:
 - [https://drive.google.com/file/d/0B8r-ELrtSpcaZ2pYVFNfdXFDYlk/view?usp=sharing Object Detection]: This is C\+\+ implementation of [https://arxiv.org/pdf/1311.2524.pdf RCNN] based on [https://github.com/BVLC/caffe caffe] framework, in which sliding window, bounding box regression are utilized. 
 
 == Notes
-The following are some casual notes:
+Here are some informal notes and blog posts I’ve written:
 - [https://www.linkedin.com/pulse/llm-development-whodunit-debugging-like-detective-inflectionai-nevyc?trk=public_post LLM Development Whodunit: Debugging Like a Detective]
 - [notes/Intro_reinforcement_learning.pdf Reinforcement Learning: from Policy Gradient to Proximal Policy Gradient(PPO)]
 - [notes/diffusion_transformer.pdf Diffusion Transformer (DiT)]
