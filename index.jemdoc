@@ -86,7 +86,7 @@ My research interests fall into three levels:
 
 == Notes
 Here are some informal notes and blog posts I’ve written:
-- [notes/deep_dive_Llama4.pdf: A Deep Dive into Parallelism with Llama 4 Scout]
+- [notes/deep_dive_Llama4.pdf A Deep Dive into Parallelism with Llama 4 Scout]
 - [https://www.linkedin.com/pulse/llm-development-whodunit-debugging-like-detective-inflectionai-nevyc?trk=public_post LLM Development Whodunit: Debugging Like a Detective]
 - [notes/Intro_reinforcement_learning.pdf Reinforcement Learning: from Policy Gradient to Proximal Policy Gradient(PPO)]
 - [notes/diffusion_transformer.pdf Diffusion Transformer (DiT)]
