@@ -87,6 +87,7 @@ My research interests fall into three levels:
 
 == Notes
 Here are some informal notes and blog posts I’ve written:
+- [notes/Quantization.pdf Quantization]
 - [notes/autograd.pdf How does AutoGrad work?]
 - [notes/deep_dive_Llama4.pdf A Deep Dive into Parallelism with Llama 4 Scout]
 - [notes/Prereq_to_distributed_training.pdf Prereq to Distributed Training]
